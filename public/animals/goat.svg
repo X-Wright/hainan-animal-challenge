@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">海南黑山羊</title><desc id="desc">深灰色的海南黑山羊，长着弯弯的角、长耳朵与小胡子。</desc>
+  <defs>
+    <linearGradient id="body" x1="102" y1="110" x2="185" y2="214" gradientUnits="userSpaceOnUse"><stop stop-color="#75817a"/><stop offset="1" stop-color="#414c48"/></linearGradient>
+    <linearGradient id="face" x1="131" y1="71" x2="188" y2="167" gradientUnits="userSpaceOnUse"><stop stop-color="#8a938a"/><stop offset="1" stop-color="#515d55"/></linearGradient>
+    <linearGradient id="horn" x1="121" y1="37" x2="165" y2="84" gradientUnits="userSpaceOnUse"><stop stop-color="#e5d4a5"/><stop offset="1" stop-color="#bda47a"/></linearGradient>
+    <linearGradient id="muzzle" x1="149" y1="134" x2="181" y2="162" gradientUnits="userSpaceOnUse"><stop stop-color="#c4c6ad"/><stop offset="1" stop-color="#a4ac97"/></linearGradient>
+  </defs>
+  <ellipse cx="151" cy="233" rx="85" ry="11" fill="#639a74" opacity=".15"/>
+  <g stroke="#4c4b3e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 155c-17-3-23-15-19-25 9 1 16 7 19 15" fill="url(#body)"/>
+    <path d="m99 189 1 32c0 8 7 11 15 10 7-1 10-6 10-14v-24m58-1 1 30c0 8 7 11 15 9 6-2 9-6 8-13l-3-30" fill="url(#body)"/>
+    <path d="M101 220c7 3 15 3 23 0m61 1c7 2 14 1 21-1" stroke="#353e38" stroke-width="5"/>
+    <path d="M218 171c0 28-29 45-66 45-40 0-70-18-69-47 2-30 28-49 65-49 40 0 70 21 70 51Z" fill="url(#body)"/>
+    <path d="M132 89c-18-13-26-31-22-51 13 3 18 20 31 28m39 18c18-15 25-32 19-51-12 4-15 20-27 30" fill="url(#horn)"/>
+    <path d="m116 53 10-2m-5 14 11-4m60-12-10-1m5 14-11-3" stroke="#ad956b" stroke-width="2"/>
+    <path d="M133 99c-17-11-35-13-48-4 5 18 20 29 36 27m72-24c17-10 34-11 46-1-7 16-21 25-37 23" fill="url(#body)"/>
+    <path d="M99 101c8-1 15 2 22 7m104-5c-8-1-15 1-22 6" stroke="#a9ada0" stroke-width="4"/>
+    <path d="M207 113c-3 24-18 53-39 58-22-3-45-28-47-52-2-28 17-51 43-52 27-1 46 20 43 46Z" fill="url(#face)"/>
+    <path d="M151 70c4-7 11-11 17-12l-1 9 12-3-4 10" fill="#869185"/>
+    <path d="M159 169c0 12 5 20 10 25 7-6 12-15 11-25" fill="#5a665b"/>
+    <path d="M189 149c0 12-10 21-23 21-14 0-26-8-26-20 0-10 12-18 26-18 13 0 23 7 23 17Z" fill="url(#muzzle)"/>
+    <path d="M163 151v6m0 0-7 4m7-4 7 3" stroke="#626b5c" stroke-width="2"/>
+    <path d="M137 87c5-6 12-10 20-11" stroke="#b2b8aa" stroke-width="4" opacity=".6"/>
+    <path d="M103 158c4-9 11-15 19-18" stroke="#8e9b8b" stroke-width="3" opacity=".55"/>
+  </g>
+  <ellipse cx="145" cy="117" rx="5.3" ry="6.4" fill="#29382e"/><ellipse cx="187" cy="115" rx="5.3" ry="6.4" fill="#29382e"/>
+  <circle cx="146.8" cy="114.5" r="1.7" fill="#fff"/><circle cx="188.8" cy="112.5" r="1.7" fill="#fff"/>
+  <ellipse cx="153" cy="147" rx="2.8" ry="2" fill="#626b5c"/><ellipse cx="176" cy="146" rx="2.8" ry="2" fill="#626b5c"/>
+  <ellipse cx="136" cy="135" rx="7" ry="4" fill="#b19b86" opacity=".4"/><ellipse cx="197" cy="133" rx="7" ry="4" fill="#b19b86" opacity=".4"/>
+  <path d="M229 228c-2-9 3-18 11-22 0 9-5 16-11 22Z" fill="#7ebd91"/>
+  <path d="M228 229c-7-5-11-12-10-20 7 4 11 11 10 20Z" fill="#a0cfa1"/>
+  <path d="M68 229c-1-6 1-11 6-14 0 6-1 11-6 14Z" fill="#87bf90"/>
+  <circle cx="77" cy="68" r="3" fill="#e4b64a"/>
+  <path d="m227 67 2-5m-2 5 5 1" stroke="#e4b64a" stroke-width="2" stroke-linecap="round"/>
+</svg>

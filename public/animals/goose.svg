@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">白羽小鹅</title><desc id="desc">白羽长颈的小鹅，带着橙色嘴巴与明亮眼睛，优雅地站在小草旁。</desc>
+  <defs>
+    <linearGradient id="body" x1="105" y1="85" x2="179" y2="216" gradientUnits="userSpaceOnUse"><stop stop-color="#fffef9"/><stop offset="1" stop-color="#e8e8d7"/></linearGradient>
+    <linearGradient id="neck" x1="156" y1="52" x2="192" y2="177" gradientUnits="userSpaceOnUse"><stop stop-color="#fffef9"/><stop offset="1" stop-color="#e8e8d7"/></linearGradient>
+    <linearGradient id="wing" x1="100" y1="149" x2="160" y2="194" gradientUnits="userSpaceOnUse"><stop stop-color="#fffefb"/><stop offset="1" stop-color="#dddfcb"/></linearGradient>
+    <linearGradient id="bill" x1="192" y1="68" x2="222" y2="89" gradientUnits="userSpaceOnUse"><stop stop-color="#ffc579"/><stop offset="1" stop-color="#ec9b52"/></linearGradient>
+  </defs>
+  <ellipse cx="151" cy="233" rx="85" ry="11" fill="#639a74" opacity=".15"/>
+  <g stroke="#6a5140" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m119 202-2 21c-9 0-20 4-25 11 10 2 18 0 25-3l12 4 8-6-10-8 3-18m37 1 5 19c11-1 23 2 27 9-10 3-18 1-25-1l-11 6-9-6 9-9-6-18" fill="#f4ae5c"/>
+    <path d="M99 146c-12-1-23-11-28-25-12 14-10 32 4 45" fill="url(#body)"/>
+    <path d="M190 143c18 10 25 28 20 44-7 23-35 34-68 32-38-3-63-21-63-47 0-26 26-43 61-44" fill="url(#body)"/>
+    <path d="M140 143c16-16 19-31 16-49-2-12-9-19-7-32 2-19 18-31 35-27 18 4 26 17 22 33-2 13-11 20-13 34-4 24 4 39 6 54" fill="url(#neck)"/>
+    <path d="M199 66c10-3 25 2 29 9-3 9-18 15-31 11" fill="url(#bill)"/>
+    <path d="M202 77c8 1 15 0 20-2" stroke="#cf8144" stroke-width="2"/>
+    <path d="M95 153c19-15 52-10 69 12 6 8 1 19-10 25-24 11-51-4-59-37Z" fill="url(#wing)"/>
+    <path d="M108 161c7 11 21 18 37 16" stroke="#d0d3bc" stroke-width="2.5"/>
+    <path d="M161 55c4-7 11-11 18-11" stroke="#fff" stroke-width="4"/>
+    <path d="M169 95c3 15 0 31-5 42" stroke="#fff" stroke-width="4" opacity=".7"/>
+  </g>
+  <ellipse cx="187" cy="61" rx="5" ry="6.5" fill="#49382f"/>
+  <circle cx="188.7" cy="58.5" r="1.7" fill="#fff"/>
+  <ellipse cx="187" cy="82" rx="8" ry="5" fill="#f2b69a" opacity=".55"/>
+  <ellipse cx="215" cy="70" rx="1.7" ry="1.3" fill="#bf7b44"/>
+  <path d="M229 228c-2-9 3-18 11-22 0 9-5 16-11 22Z" fill="#7ebd91"/>
+  <path d="M228 229c-7-5-11-12-10-20 7 4 11 11 10 20Z" fill="#a0cfa1"/>
+  <path d="M68 229c-1-6 1-11 6-14 0 6-1 11-6 14Z" fill="#87bf90"/>
+  <path d="m232 112 2-6m-2 6 6 1" stroke="#e4b64a" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="102" cy="62" r="3" fill="#e4b64a"/>
+</svg>
